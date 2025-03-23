@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "008000"               # Deep sea green
+backgroundColor = "#0E1117"            # Jet black/navy background
+secondaryBackgroundColor = "#262730"   # Dark slate for cards/sidebar
+textColor = "#FAFAFA"                  # Near-white text
+font = "monospace"                         
