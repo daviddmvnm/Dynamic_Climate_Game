@@ -81,7 +81,7 @@ st.sidebar.caption("How strongly political pressure grows with global adoption."
 Z = st.sidebar.slider("Cost Reduction Rate (Z)", 0.0, 1.0, 0.1)
 st.sidebar.caption("How much adoption reduces future transition costs.")
 
-theta = st.sidebar.slider("Threshold (θ)", 0.1, 1.0, 0.2)
+theta = st.sidebar.slider("Threshold (θ)", 0.6, 1.0, 0.6)
 st.sidebar.caption("Influence needed to trigger climate success.")
 
 min_gdp_threshold = st.sidebar.slider("Minimum GDP per capita to adopt", 0, 20000, 5000)
